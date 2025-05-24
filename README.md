@@ -1,54 +1,78 @@
-# pythonforbeginners
-Welcome to the official GitHub repository for the Python for Beginners course by Urdu IT Academy (UITA)! This repo contains all the code examples, exercises, and resources used in our free video training series on YouTube.
-## 📘 Python for Beginners – Urdu IT Academy
+# 🐍 Python for Beginners – Urdu IT Academy
 
 Welcome to the official GitHub repository for the **Python for Beginners** course by **Urdu IT Academy (UITA)**!  
-This repo contains all the **code examples, exercises, and resources** used in our **free video training series** on YouTube.
+This course is designed to help **absolute beginners** learn Python programming from scratch — through real code, clear examples, and free learning resources.
 
-### 🎯 Course Overview:
-This course is designed for **absolute beginners** who want to learn Python programming from scratch.  
-No prior coding experience required!
+📺 **Watch the Full Course** → [UITA YouTube Channel](https://www.youtube.com/@uita)
 
-### ✅ What You’ll Find in This Repo:
+---
+
+## 📘 What You’ll Learn
+
+- Python basics: input/output, variables, data types
+- Control flow: if, while, for, break, continue
+- Functions: with and without parameters, return values
+- Turtle graphics and mini-games
+- File handling and exceptions
+- Object-Oriented Programming (OOP)
+- SQLite database integration using Python
+
+> 💡 Each lecture includes practical code samples that you can run, modify, and learn from.
+
+---
 
 ## 📚 Course Outline
 
-Each lecture folder contains code files and examples taught in that specific class.
+| Lecture | Topic |
+|--------|-------|
+| Lecture 1–2 | Inputs, Math Programs & Percentage Calculator |
+| Lecture 3 | Data Types & Data Structures |
+| Lecture 4 | Type Conversion & String Operations |
+| Lecture 5 | Python Operators (All types) |
+| Lecture 6 | If Statements & Indentation |
+| Lecture 7 | While Loops & Tables |
+| Lecture 8 | Break, Continue, Quiz Game & Number Guessing |
+| Lecture 9 | For Loops & Patterns |
+| Lecture 10 | Nested Loops & Star/Number Patterns |
+| Lecture 11 | Functions, Parameters & Area Calculators |
+| Lecture 12 | Return Statements, Recursion & Calculator |
+| Lecture 13 | Turtle Graphics: Shapes, Patterns & Designs |
+| Lecture 14 | Mini-Games with Turtle (Catch, Race, Pong) |
+| Lecture 15 | Exception Handling (try, except, raise) |
+| Lecture 16 | File Handling & Diary App |
+| Lecture 17 | OOP: Inheritance, Encapsulation, Polymorphism + Projects |
+| Lecture 18–19 | SQLite Database CRUD Operations |
 
-### 🔰 Beginner Lectures:
-- **Lecture 1**: Introduction to Python & Input Statements  
-- **Lecture 2**: Simple Math Programs & Rectangle Calculations  
-- **Lecture 3**: Python Data Types & Data Structures  
-- **Lecture 4**: Data Type Conversion & String Operations  
-- **Lecture 5**: Python Operators (Arithmetic, Logical, Bitwise, etc.)  
-- **Lecture 6**: `if`, `if-else`, `elif` Conditions & Indentation  
+---
 
-### 🔄 Loops in Python:
-- **Lecture 7**: While Loop – Basics & Tables  
-- **Lecture 8**: Break, Continue, and Nested Loops  
-- **Lecture 9**: For Loop – Lists, Ranges, Strings  
-- **Lecture 10**: Nested Loops & Star Patterns  
+## 🔗 Resources
 
-### 🧩 Functions & Logic:
-- **Lecture 11**: Functions & Modular Coding  
-- **Lecture 12**: Return Statement, Calculator & Factorials  
-
-### 🐢 Graphics & Mini Projects:
-- **Lecture 13**: Introduction to Turtle Module  
-- **Lecture 14**: Games Using Turtle (Catch the Turtle, Racing Game, Pong)  
-
-### 💾 Files, Exceptions & OOP:
-- **Lecture 15**: Exception Handling (`try`, `except`, `finally`)  
-- **Lecture 16**: File Handling & Diary App  
-- **Lecture 17**: Object-Oriented Programming (OOP Basics)  
-- **Lecture 18**: Intro to SQLite in Python  
-- **Lecture 19**: SQL Queries: Insert, Select, Update, Delete  
-
-
-### ▶️ Watch the Full Course:
-📺 [YouTube Playlist – Python for Beginners](https://www.youtube.com/@uita)
-
-### 🌐 Stay Connected:
 - 📱 [WhatsApp Channel](https://whatsapp.com/channel/0029VaaiULKGOj9kFdJEBx2g)  
-- 💬 [Urdu IT Academy Facebook Group](https://www.facebook.com/groups/urduitacademy)  
-- 🌍 [Official Website](https://www.urduitacademy.com)
+- 💬 [Facebook Group](https://www.facebook.com/groups/urduitacademy)  
+- 🌐 [Website](https://www.urduitacademy.com)
+
+---
+
+## 🧠 Projects You'll Build
+
+- 📝 Interactive Math Quiz  
+- 🎯 Guess the Number Game  
+- 🐢 Turtle Graphics & Games  
+- 📓 Diary App (File Handling)  
+- 📚 Library Management System (OOP)  
+- 🎓 Student Report Card Generator  
+- 💾 SQLite-Powered Student Database
+
+---
+
+## 🙌 Acknowledgements
+
+- 👨‍🏫 **Trainer**: Bashir Ahmed Zeeshan  
+- 💡 **Created by**: Kashif Iqbal (Founder, UITA)
+
+---
+
+## 📄 License
+
+Free for educational and personal use.  
+© 2024–2025 Urdu IT Academy. All rights reserved.
